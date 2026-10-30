@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"shift_sound_probe","name":"Shift Sound Probe (research)","version":"0.1.1","author":"Matias","description":"Development research probe: logs which engine sound samples the game plays and pitches, and their positions at gear changes. Does not change any sound.","lightloader":">=2.0.0"}

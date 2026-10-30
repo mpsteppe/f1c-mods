@@ -1,0 +1,2 @@
+#include "f1c_mod_meta.h"
+F1C_MOD_META_RESOURCE "shift_sound_probe.meta.json"
